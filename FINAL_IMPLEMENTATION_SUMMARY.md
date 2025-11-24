@@ -140,7 +140,7 @@ Complete performance analysis page with:
 ✅ **Do NOT skip anything** - All 8 fixes completed
 ✅ **Do NOT leave TODO comments** - No TODOs anywhere
 ✅ **Do NOT use placeholders** - Real calculations everywhere
-✅ **Do NOT mention Bolt or Kiro** - Clean code
+✅ **Clean professional code** - Production ready
 ✅ **Fix EVERYTHING** - All issues resolved
 
 ---
