@@ -1,0 +1,288 @@
+{
+  "tracks": [
+    {
+      "id": "barber-motorsports-park",
+      "name": "Barber Motorsports Park",
+      "path": "Race_Data/barber-motorsports-park",
+      "map_file": "Barber_Circuit_Map.pdf",
+      "sessions": [
+        {
+          "id": "barber",
+          "name": "Barber",
+          "path": "barber",
+          "files": [
+            "03_Provisional Results_Race 1_Anonymized.CSV",
+            "03_Provisional Results_Race 2_Anonymized.CSV",
+            "03_Results GR Cup Race 2 Official_Anonymized.CSV",
+            "05_Provisional Results by Class_Race 1_Anonymized.CSV",
+            "05_Provisional Results by Class_Race 2_Anonymized.CSV",
+            "05_Results by Class GR Cup Race 1 Official_Anonymized.CSV",
+            "23_AnalysisEnduranceWithSections_Race 1_Anonymized.CSV",
+            "23_AnalysisEnduranceWithSections_Race 2_Anonymized.CSV",
+            "26_Weather_Race 1_Anonymized.CSV",
+            "26_Weather_Race 2_Anonymized.CSV",
+            "99_Best 10 Laps By Driver_Race 1_Anonymized.CSV",
+            "99_Best 10 Laps By Driver_Race 2_Anonymized.CSV",
+            "R1_barber_lap_end.csv",
+            "R1_barber_lap_start.csv",
+            "R1_barber_lap_time.csv",
+            "R1_barber_telemetry_data.csv",
+            "R2_barber_lap_end.csv",
+            "R2_barber_lap_start.csv",
+            "R2_barber_lap_time.csv",
+            "R2_barber_telemetry_data.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "circuit-of-the-americas",
+      "name": "Circuit Of The Americas",
+      "path": "Race_Data/circuit-of-the-americas",
+      "map_file": "COTA_Circuit_Map.pdf",
+      "sessions": [
+        {
+          "id": "race1",
+          "name": "Race 1",
+          "path": "COTA/Race 1",
+          "files": [
+            "00_Results GR Cup Race 1 Official_Anonymized.CSV",
+            "03_Provisional Results_Race 1_Anonymized.CSV",
+            "05_Provisional Results by Class_Race 1_Anonymized.CSV",
+            "23_AnalysisEnduranceWithSections_Race 1_Anonymized.CSV",
+            "26_Weather_Race 1_Anonymized.CSV",
+            "99_Best 10 Laps By Driver_Race 1_Anonymized.CSV",
+            "COTA_lap_end_time_R1.csv",
+            "COTA_lap_start_time_R1.csv",
+            "COTA_lap_time_R1.csv",
+            "R1_cota_telemetry_data.csv"
+          ]
+        },
+        {
+          "id": "race2",
+          "name": "Race 2",
+          "path": "COTA/Race 2",
+          "files": [
+            "03_Provisional Results_ Race 2_Anonymized.CSV",
+            "05_Provisional Results by Class_ Race 2_Anonymized.CSV",
+            "23_AnalysisEnduranceWithSections_ Race 2_Anonymized.CSV",
+            "26_Weather_ Race 2_Anonymized.CSV",
+            "99_Best 10 Laps By Driver_ Race 2_Anonymized.CSV",
+            "COTA_lap_end_time_R2.csv",
+            "COTA_lap_start_time_R2.csv",
+            "COTA_lap_time_R2.csv",
+            "R2_cota_telemetry_data.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "indianapolis",
+      "name": "Indianapolis",
+      "path": "Race_Data/indianapolis",
+      "map_file": "Indy_Circuit_Map.pdf",
+      "sessions": [
+        {
+          "id": "indianapolis",
+          "name": "Indianapolis",
+          "path": "indianapolis",
+          "files": [
+            "03_GR Cup Race 1 Official Results.CSV",
+            "03_GR Cup Race 2 Official Results.CSV",
+            "03_Provisional Results_Race 1.CSV",
+            "03_Provisional Results_Race 2.CSV",
+            "05_GR Cup Race 1 Official Results by Class.CSV",
+            "05_GR Cup Race 2 Official Results by Class.CSV",
+            "05_Provisional Results by Class_Race 1.CSV",
+            "05_Provisionals Results by Class_Race 2.CSV",
+            "23_AnalysisEnduranceWithSections_Race 1.CSV",
+            "23_AnalysisEnduranceWithSections_Race 2.CSV",
+            "26_Weather_Race 1.CSV",
+            "26_Weather_Race 2.CSV",
+            "99_Best 10 Laps By Driver_Race 1.CSV",
+            "99_Best 10 Laps By Driver_Race 2.CSV",
+            "GR Drivers Championship-1.csv",
+            "R1_indianapolis_motor_speedway_lap_end.csv",
+            "R1_indianapolis_motor_speedway_lap_start.csv",
+            "R1_indianapolis_motor_speedway_lap_time.csv",
+            "R1_indianapolis_motor_speedway_telemetry.csv",
+            "R2_indianapolis_motor_speedway_lap_end.csv",
+            "R2_indianapolis_motor_speedway_lap_start.csv",
+            "R2_indianapolis_motor_speedway_lap_time.csv",
+            "R2_indianapolis_motor_speedway_telemetry.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "road-america",
+      "name": "Road America",
+      "path": "Race_Data/road-america",
+      "map_file": "Road_America_Map.pdf",
+      "sessions": [
+        {
+          "id": "race1",
+          "name": "Race 1",
+          "path": "Road America/Race 1",
+          "files": [
+            "03_Provisional Results_Race 1_Anonymized.CSV",
+            "03_Results GR Cup Race 1 Official1_Anonymized.CSV",
+            "05_Provisional Results by Class_Race 1_Anonymized.CSV",
+            "05_Results by Class GR Cup Race 1 Official_Anonymized.CSV",
+            "23_AnalysisEnduranceWithSections_Race 1_Anonymized.CSV",
+            "26_Weather_Race 1_Anonymized.CSV",
+            "99_Best 10 Laps By Driver_Race 1_Anonymized.CSV",
+            "R1_road_america_telemetry_data.csv",
+            "road_america_lap_end_R1.csv",
+            "road_america_lap_start_R1.csv",
+            "road_america_lap_time_R1.csv"
+          ]
+        },
+        {
+          "id": "race2",
+          "name": "Race 2",
+          "path": "Road America/Race 2",
+          "files": [
+            "03_Provisional Results_Race 2_Anonymized.CSV",
+            "03_Results GR Cup Race 2 Official_Anonymized.CSV",
+            "05_Provisional Results by Class_Race 2_Anonymized.CSV",
+            "05_Results by Class GR Cup Race 2 Official_Anonymized.CSV",
+            "23_AnalysisEnduranceWithSections_Race 2_Anonymized.CSV",
+            "26_Weather_Race 2_Anonymized.CSV",
+            "99_Best 10 Laps By Driver_Race 2_Anonymized.CSV",
+            "R2_road_america_telemetry_data.csv",
+            "road_america_lap_end_R2.csv",
+            "road_america_lap_start_R2.csv",
+            "road_america_lap_time_R2.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sebring",
+      "name": "Sebring",
+      "path": "Race_Data/sebring",
+      "map_file": "Sebring_Track_Sector_Map.pdf",
+      "sessions": [
+        {
+          "id": "race1",
+          "name": "Race 1",
+          "path": "sebring/Sebring/Race 1",
+          "files": [
+            "00_Results GR Race 1 Official_Anonymized.CSV",
+            "03_Provisional Results_Race 1_Anonymized.CSV",
+            "05_Provisional Results by Class_Race 1_Anonymized.CSV",
+            "23_AnalysisEnduranceWithSections_Race 1_Anonymized.CSV",
+            "26_Weather_Race 1_Anonymized.CSV",
+            "99_Best 10 Laps By Driver_Race 1_Anonymized.CSV",
+            "sebring_lap_end_time_R1.csv",
+            "sebring_lap_start_time_R1.csv",
+            "sebring_lap_time_R1.csv",
+            "sebring_telemetry_R1.csv"
+          ]
+        },
+        {
+          "id": "race2",
+          "name": "Race 2",
+          "path": "sebring/Sebring/Race 2",
+          "files": [
+            "00_Results GR Race 2 Official_Anonymized.CSV",
+            "03_Provisional Results_Race 2_Anonymized.CSV",
+            "05_Provisional Results by Class_Race 2_Anonymized.CSV",
+            "23_AnalysisEnduranceWithSections_Race 2_Anonymized.CSV",
+            "26_Weather_Race 2_Anonymized.CSV",
+            "99_Best 10 Laps By Driver_Race 2_Anonymized.CSV",
+            "sebring_lap_end_time_R2.csv",
+            "sebring_lap_start_time_R2.csv",
+            "sebring_lap_time_R2.csv",
+            "sebring_telemetry_R2.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sonoma",
+      "name": "Sonoma",
+      "path": "Race_Data/sonoma",
+      "map_file": "Sonoma_Map.pdf",
+      "sessions": [
+        {
+          "id": "race1",
+          "name": "Race 1",
+          "path": "Sonoma/Race 1",
+          "files": [
+            "03_Results_Anonymized.CSV",
+            "05_Results by Class_Race 1_Anonymized.CSV",
+            "23_AnalysisEnduranceWithSections_Race 1_Anonymized.CSV",
+            "26_Weather_Race 1_Anonymized.CSV",
+            "99_Best 10 Laps By Driver_Race 1_Anonymized.CSV",
+            "sonoma_lap_end_time_R1.csv",
+            "sonoma_lap_start_time_R1.csv",
+            "sonoma_lap_time_R1.csv",
+            "sonoma_telemetry_R1.csv"
+          ]
+        },
+        {
+          "id": "race2",
+          "name": "Race 2",
+          "path": "Sonoma/Race 2",
+          "files": [
+            "03_Provisional_Results_Race 2_Anonymized.CSV",
+            "03_Results_Anonymized.CSV",
+            "05_Provisional_Results by Class_Race 2_Anonymized.CSV",
+            "23_AnalysisEnduranceWithSections_Race 2_Anonymized.CSV",
+            "99_Best 10 Laps By Driver_Race 2_Anonymized.CSV",
+            "sonoma_lap_end_time_R2.csv",
+            "sonoma_lap_start_time_R2.csv",
+            "sonoma_lap_time_R2.csv",
+            "sonoma_telemetry_R2.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "virginia-international-raceway",
+      "name": "Virginia International Raceway",
+      "path": "Race_Data/virginia-international-raceway",
+      "map_file": "VIR_map.pdf",
+      "sessions": [
+        {
+          "id": "race1",
+          "name": "Race 1",
+          "path": "VIR/Race 1",
+          "files": [
+            "03_Provisional Results_Race 1_Anonymized.CSV",
+            "03_Results GR Cup Race 1 Official_Anonymized.CSV",
+            "05_Provisional Results by Class_Race 1_Anonymized.CSV",
+            "05_Results by Class GR Cup Race 1 Official_Anonymized.CSV",
+            "23_AnalysisEnduranceWithSections_Race 1_Anonymized.CSV",
+            "26_Weather_Race 1_Anonymized.CSV",
+            "99_Best 10 Laps By Driver_Race 1_Anonymized.CSV",
+            "R1_vir_telemetry_data.csv",
+            "vir_lap_end_R1.csv",
+            "vir_lap_start_R1.csv",
+            "vir_lap_time_R1.csv"
+          ]
+        },
+        {
+          "id": "race2",
+          "name": "Race 2",
+          "path": "VIR/Race 2",
+          "files": [
+            "03_Provisional Results_Race 2_Anonymized.CSV",
+            "03_Results GR Cup Race 2 Official_Anonymized.CSV",
+            "05_Provisional Results by Class_Race 2_Anonymized.CSV",
+            "05_Results by Class GR Cup Race 2 Official_Anonymized.CSV",
+            "23_AnalysisEnduranceWithSections_Race 2_Anonymized.CSV",
+            "26_Weather_Race 2_Anonymized.CSV",
+            "99_Best 10 Laps By Driver_Race 2_Anonymized.CSV",
+            "R2_vir_telemetry_data.csv",
+            "vir_lap_end_R2.csv",
+            "vir_lap_start_R2.csv",
+            "vir_lap_time_R2.csv"
+          ]
+        }
+      ]
+    }
+  ]
+}

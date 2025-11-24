@@ -1,0 +1,45 @@
+{
+  "name": "toyota-gr-racing-telemetry",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "author": "Tanush Shah (The Unknown God)",
+  "description": "Professional motorsport telemetry analysis system for Toyota GR Cup 2025",
+  "scripts": {
+    "setup": "node -e \"require('child_process').execSync(process.platform === 'win32' ? 'powershell -ExecutionPolicy Bypass -File ./setup-data.ps1' : 'bash ./setup-data.sh', {stdio: 'inherit'})\"",
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit -p tsconfig.app.json"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.105.6",
+    "@react-three/fiber": "^8.16.8",
+    "@supabase/supabase-js": "^2.57.4",
+    "framer-motion": "^12.23.24",
+    "lucide-react": "^0.344.0",
+    "pdfjs-dist": "^5.4.394",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^3.4.1",
+    "three": "^0.181.2"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.9.1",
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "@types/three": "^0.181.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.18",
+    "eslint": "^9.9.1",
+    "eslint-plugin-react-hooks": "^5.1.0-rc.0",
+    "eslint-plugin-react-refresh": "^0.4.11",
+    "globals": "^15.9.0",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.5.3",
+    "typescript-eslint": "^8.3.0",
+    "vite": "^5.4.2"
+  }
+}
